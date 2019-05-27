@@ -25,7 +25,7 @@ public:
 };
 
 int main() {
-    int x = 9;
+    int x = 19;
     // long start = GetTickCount();
     cout << Solution().isHappy(x);
     // long end = GetTickCount();
