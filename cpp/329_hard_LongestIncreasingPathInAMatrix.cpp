@@ -67,9 +67,6 @@ public:
 };
 
 int main() {
-    string s;
-    s += '0' + (2 & 1);
-    cout << s << endl;
     // vector<int> nums1 = {9, 9, 4};
     // vector<int> nums2 = {6, 6, 8};
     // vector<int> nums3 = {2, 1, 1};
